@@ -2,6 +2,7 @@
 
 # Amazon EC2
 <img width="280" height="265" alt="image" src="https://github.com/user-attachments/assets/20714e82-0ffb-4a4a-b151-747e9bd7bffe" />
+
 Amazon EC2 is more flexible, cost-effective, and faster than managing on-premises servers. It offers on-demand compute capacity that can be quickly launched, scaled, and terminated, with costs based only on active usage.
 
 The flexibility of Amazon EC2 allows for faster development and deployment of applications. You  can launch as many or as few virtual servers as needed and configure security, networking, and storage. You can also scale resources up or down based on usage, such as handling high traffic or compute-heavy tasks.
