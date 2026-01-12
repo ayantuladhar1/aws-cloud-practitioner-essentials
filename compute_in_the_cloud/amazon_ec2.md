@@ -10,8 +10,8 @@ The flexibility of Amazon EC2 allows for faster development and deployment of ap
 **Key takeaways: Comparing on-premises and cloud resources**
 When designing infrastructure for your business, selecting the right resource can significantly affect your efficiency, flexibility, and overall costs. Review the key differences between on-premises and cloud resource management.
 	
-	Challenges of on-premises resources
-		Imaging that you are responsible for designing your company's infrastructure to support new websites. With traditional on –premises resources, you must purchase hardware upfront, wait for delivery, and handle installation and configuration. This process is time-consuming, costly, and inflexible because you are locked into a specific capacity that might not align with changing demands.
+** Challenges of on-premises resources**
+Imaging that you are responsible for designing your company's infrastructure to support new websites. With traditional on –premises resources, you must purchase hardware upfront, wait for delivery, and handle installation and configuration. This process is time-consuming, costly, and inflexible because you are locked into a specific capacity that might not align with changing demands.
 		
 		
 	Benefits of using Cloud Resources
