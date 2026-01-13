@@ -79,6 +79,3 @@ In this lesson, you identified services that help you connect your AWS Cloud to 
 
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/6a86dce1-862c-4b8f-964c-398b088c19d2" />
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/a2344b79-ed44-46ae-bc60-37edb43d800e" />
-
-
-<img width="615" height="7099" alt="image" src="https://github.com/user-attachments/assets/2762749c-d785-4dc7-a303-3f4a5389dd2c" />
