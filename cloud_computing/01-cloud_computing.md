@@ -1,6 +1,6 @@
 # Cloud Computing
 
-<img width="990" height="327" alt="image" src="https://github.com/user-attachments/assets/89e34b3b-6fea-4a07-97c2-8d36da337aec" />
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/89e34b3b-6fea-4a07-97c2-8d36da337aec" />
 
 It is on  demand delivery of IT resources over the internet with pay as you go pricing.
 * On-Demand Delivery
