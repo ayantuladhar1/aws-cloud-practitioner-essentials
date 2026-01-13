@@ -1,4 +1,4 @@
-<img width="999" height="304" alt="image" src="https://github.com/user-attachments/assets/c6284790-36f4-4967-92e9-5270d3a1cc49" />
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/c6284790-36f4-4967-92e9-5270d3a1cc49" />
 
 # Amazon EC2
 <img width="280" height="265" alt="image" src="https://github.com/user-attachments/assets/20714e82-0ffb-4a4a-b151-747e9bd7bffe" />
