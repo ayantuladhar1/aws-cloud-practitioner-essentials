@@ -25,8 +25,8 @@ Lambda is ideal for building responsive, event-driven applications across a wide
 
 * Personalized content delivery for a news aggregator
   * A news aggregator uses Lambda to fetch and process news articles from multiple sources then it tailors recommendations based on user preferences. When a user opens the application or performs a search, Lambda functions are triggered to retrieve data, run personalization logic, and return relevant content.
-	* Why Lambda: It automatically scales user traffic and reduces costs by running code only when user interact.
+  * Why Lambda: It automatically scales user traffic and reduces costs by running code only when user interact.
 
 * Real-time event handling for an online game
   * A gaming company uses Lambda to handle in-game events like player actions, game state changes, and real-time leader board updates. Each event (like scoring a point or unlocking an achievement) triggers a Lambda function that updates player data and game status.
-	* Why Lambda: It handles thousands of events, in real-time with no need to manage servers. Costs scale with usage which is ideal for peak gaming times.
+  * Why Lambda: It handles thousands of events, in real-time with no need to manage servers. Costs scale with usage which is ideal for peak gaming times.
