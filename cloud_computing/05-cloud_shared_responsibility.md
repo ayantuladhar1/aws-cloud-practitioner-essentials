@@ -3,7 +3,7 @@ The AWS Shared Responsibility Model is a concept designed to help AWS and custom
 
 ## Components of the AWS Shared Responsibility Model
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3265b404-d86d-43b0-8e57-2f2a6e6d0aa0" />
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/3265b404-d86d-43b0-8e57-2f2a6e6d0aa0" />
 
 ## Customer responsibilities
 Customers are responsible for managing security requirements for their data, including which data they store on AWS and who has access to that data. Customers also control how access to the data is granted, managed and revoked.
@@ -15,4 +15,4 @@ Depending on the service used, responsibilities might shift between the customer
 ## AWS responsibilities
 AWS is responsible for protecting the infrastructure that runs all the services offered in the AWS Cloud. This infrastructure is composed of hardware, software, networking, and facilities that run Cloud services. 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c0fc49ca-912c-4247-a2f7-7398a4479c78" />
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/c0fc49ca-912c-4247-a2f7-7398a4479c78" />
