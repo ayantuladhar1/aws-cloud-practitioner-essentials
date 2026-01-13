@@ -1,6 +1,6 @@
 # Connecting to the AWS Cloud
 
-<img width="670" height="67" alt="image" src="https://github.com/user-attachments/assets/b7d82c20-a906-41a8-9e40-5d1080fccde9" />
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/b7d82c20-a906-41a8-9e40-5d1080fccde9" />
 
 With so many different types of networks, on-premises datacenters, and remote workers, companies need a wide range of ways to connect to the AWS Cloud. In the following section, you will learn four ways to connect to the AWS Cloud:
 * AWS Client VPN
