@@ -62,5 +62,6 @@ A gaming company uses Global Accelerator to reduce lag and provide smoother game
 A banking app uses Global Accelerator to ensure their customers always have fast, reliable access to their accounts. Even during peak times or when network conditions in one area are poor, customers can check balances and make transactions without frustrating delays.
 
 Several AWS edge services are similar and are used in global networking solutions. To review these AWS edge services, choose each of the following flashcards.
+
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/fa0d7b5e-9757-4223-a184-47df3111244d" />
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/0dbbe753-2f2b-4667-b815-9f7175b779e2" />
