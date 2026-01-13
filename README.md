@@ -21,6 +21,14 @@ This course consists of fundamentals of AWS services, pricing, security, monitor
 * Describe specialized AWS services and the six pillars of the AWS Well-Architected Framework.
 
 ## AWS Services
-* Amazon Elastic Compute Cloud
-* AWS Identity and Access Management
-* Amazon Simple Storage Service
+* Compute Services
+* Storage Services
+* Networking Services
+* Database Services
+* Serverless Services
+* Security Services
+* Monitoring Services
+* Migration Services
+* Billing/Support Services
+* Account Management Services
+* Messaging/Integration Services
