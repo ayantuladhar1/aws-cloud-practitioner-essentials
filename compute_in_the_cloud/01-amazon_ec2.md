@@ -24,7 +24,7 @@ In contrast, with Amazon EC2, you can quickly launch, scale, and stop instances 
 You have learned that AWS manages complex infrastructure, offering on-demand compute capacity that's available whenever you need it. You can request EC2 instances and have them ready to use within minutes. But how do you actually get started?
 
 * Accessing on-demand compute capacity
-* 
+
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/d28b62be-b24d-44a1-be43-cf480a12e34c" />
 
 With Amazon EC2, you can quickly launch connect to and use virtual instances in the cloud.
@@ -37,10 +37,10 @@ With Amazon EC2, you can quickly launch connect to and use virtual instances in 
 
   * Connect to the instance
     
-	<img width="553" height="305" alt="image" src="https://github.com/user-attachments/assets/87582893-4403-404b-bc4a-833f2f97d18f" />
+	<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/87582893-4403-404b-bc4a-833f2f97d18f" />
 
 	You can connect to an EC2 instance in various ways. Applications can interact with services running on the instances over the 		network. User or administrators can connect using SSH for Linus instances or Remote Desktop Protocol (RDP) for Windows instances. 	Alternatively, AWS services like AWS  System Manager offer a secure and simplified method for accessing instances.
 
-	<img width="824" height="360" alt="image" src="https://github.com/user-attachments/assets/a2ccc5d8-e66e-419d-9f90-c89fcdb01ff4" />
+	<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/a2ccc5d8-e66e-419d-9f90-c89fcdb01ff4" />
 
   * After you are connected to the instance, you can begin using it to run commands, install software, add storage, organize files, 	and perform other tasks.
