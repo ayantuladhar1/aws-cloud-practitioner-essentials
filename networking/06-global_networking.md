@@ -64,6 +64,3 @@ A banking app uses Global Accelerator to ensure their customers always have fast
 Several AWS edge services are similar and are used in global networking solutions. To review these AWS edge services, choose each of the following flashcards.
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/fa0d7b5e-9757-4223-a184-47df3111244d" />
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/0dbbe753-2f2b-4667-b815-9f7175b779e2" />
-
-
-<img width="615" height="7082" alt="image" src="https://github.com/user-attachments/assets/e7de5c0d-b0df-4da9-ad51-81459aec3676" />
