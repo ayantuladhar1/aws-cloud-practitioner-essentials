@@ -1,7 +1,7 @@
 # AWS Regions and Availability Zones
 AWS Global Infrastructure consist of physical locations around the world that contains group of data centers.
 
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/341ec955-0b7e-40bb-8bde-4ccd1f1bc129" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/341ec955-0b7e-40bb-8bde-4ccd1f1bc129" />
 
 	
 ## AWS Regions
