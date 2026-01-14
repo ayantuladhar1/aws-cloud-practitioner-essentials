@@ -27,5 +27,5 @@ To learn more about the Amazon EFS storage classes, choose each of the following
 You can further optimize Amazon EFS storage costs by automatically moving data between storage classes based on usage patterns. You can create lifecycle policies that determine when and how files transition between different storage tiers. These automated policies help ensure your data resides in the most cost-effective storage class without manual intervention.
 
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/3eafb552-406e-4b0b-acfc-d182465e9271" />  
-<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/700193b3-0d2c-4154-9abd-c27309498e6d" />  
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/29fe1694-1273-4bcb-95b7-8a4b48151602" />
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/dd608ef5-ab97-47b7-bb3f-54cc6faa9211" />
