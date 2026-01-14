@@ -15,13 +15,13 @@ To learn how Amazon EC2 instance store manages data when an EC2 instance is stop
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/27152e4d-bf01-4301-9a65-5765186e48d4" />
 
 ## Benefits
-**Automatically available storage**
+**Automatically available storage**  
 Instance store volumes come automatically attached to many EC2 instance types, providing temporary block-level storage at no additional cost. It's physically connected to the host computer, offering high I/O performance for data that disappears when the instance stops.
 
-**Cost effective**
+**Cost effective**  
 Because EC2 instance store is included in the EC2 instance price, you don't have to pay any additional fees for storage. It's ideal for temporary storage needs like buffers, caches, or scratch data, potentially reducing expenses for applications that don't require persistent storage.
 
-**High performance**
+**High performance**  
 EC2 instance store offers extremely low-latency storage directly attached to the host server of your EC2 instance. This proximity means exceptionally high I/O performance, making it ideal for temporary storage of data requiring fast processing.
 
 ## Amazon Elastic Block Store (EBS)
@@ -46,17 +46,17 @@ Some practical use cases of Amazon EBS include database hosting, backup storage 
 
 ## Benefits
 EBS volumes support data portability through their ability to detach and reattach to instances as needed. There are many practical reasons you might choose to do this.
-**Data migration**
+**Data migration**  
 EBS volumes can be easily migrated between Availability Zones using snapshots. The snapshots provide a simple way to move data across regions or create copies.
 
-**Instance type changes**
+**Instance type changes**  
 Since EBS volumes remain independent of EC2 instances, it's not complicated to attach them to different instance types. This flexibility lets you upgrade or downgrade instances without losing data.
 
-**Disaster recovery**
+**Disaster recovery**  
 EBS snapshots provide reliable backup solutions that can be restored in different regions during emergencies. Regular automated snapshots ensure your data remains protected and quickly recoverable.
 	
-**Cost optimization**
+**Cost optimization**  
 EBS volumes can be modified to different types and sizes to match actual usage patterns. You can switch between storage types or adjust capacity without downtime.
 	
-**Performance tuning**
+**Performance tuning**  
 Amazon EBS offers various volume types to match different workload requirements and IOPS needs. You can adjust volume performance characteristics on the fly to meet changing application demands.
