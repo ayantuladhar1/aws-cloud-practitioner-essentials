@@ -28,7 +28,7 @@ Snapshots use incremental backup technology, storing only changed blocks after t
 You can automate the creation, retention, and deletion of EBS snapshots using Amazon Data Lifecycle Manager. Amazon Data Lifecycle Manager can schedule snapshots during off-peak hours to minimize performance impact and automatically delete outdated backups to control storage costs. It's particularly valuable for large-scale deployments where manual snapshot management would be time-consuming and error-prone.
 To learn how you can use Data Lifecycle Manager to create custom EBS Snapshots policies, choose the arrow buttons to display each of the following five steps.
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a97b34ef-9f0c-47e4-a5c7-d75df996890b" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a97b34ef-9f0c-47e4-a5c7-d75df996890b" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/219a441c-56bd-48b1-84f8-bfdddf0a4677" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/3a5121cb-ff12-4458-91d6-dcc742a8bb91" />
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6886535d-c47a-4e7d-bf11-f2537b39d537" />
