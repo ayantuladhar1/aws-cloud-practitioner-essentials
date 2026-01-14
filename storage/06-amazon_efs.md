@@ -18,13 +18,13 @@ Amazon EFS automatically grows and shrinks as you add and remove files, with no 
 With Amazon EFS, you can create and configure file systems quickly without any minimum fee or setup cost. You pay only for the storage used and you can choose from a range of storage classes designed to fit your use case.
 To learn more about the Amazon EFS storage classes, choose each of the following three tabs.
 
-<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/4d0b940b-822c-44c8-a8eb-0333e5dd2117" />
-<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/b2306d69-a433-4526-ae09-9e16c925ae64" />
-<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/cdaed9d2-4631-485b-839f-c5d89c17d1a6" />
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/4d0b940b-822c-44c8-a8eb-0333e5dd2117" />  
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/b2306d69-a433-4526-ae09-9e16c925ae64" />  
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/cdaed9d2-4631-485b-839f-c5d89c17d1a6" />  
 
 ## Amazon EFS data lifecycle
 You can further optimize Amazon EFS storage costs by automatically moving data between storage classes based on usage patterns. You can create lifecycle policies that determine when and how files transition between different storage tiers. These automated policies help ensure your data resides in the most cost-effective storage class without manual intervention.
 
-<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/3eafb552-406e-4b0b-acfc-d182465e9271" />
-<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/700193b3-0d2c-4154-9abd-c27309498e6d" />
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/3eafb552-406e-4b0b-acfc-d182465e9271" />  
+<img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/700193b3-0d2c-4154-9abd-c27309498e6d" />  
 <img width="670" height="670" alt="image" src="https://github.com/user-attachments/assets/dd608ef5-ab97-47b7-bb3f-54cc6faa9211" />
