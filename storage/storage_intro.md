@@ -23,7 +23,8 @@ A fully managed scalable object storage service for storing and retrieving any a
 
 ## File storage
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f14840d0-18dc-4561-85e6-d0e35f6f0690" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/381467de-9616-4801-8d0a-e5f8602d157d" />
+
 
 AWS file storage services provide shared file systems accessible over networks, so multiple users and applications can access the same data simultaneously. They offer scalability and flexibility so you can expand storage capacity as needs grow without managing physical infrastructure. AWS offers two primary file storage services:
 * Amazon Elastic File System (EFS)
