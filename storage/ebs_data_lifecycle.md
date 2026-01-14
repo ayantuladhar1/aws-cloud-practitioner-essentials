@@ -8,10 +8,10 @@ EBS snapshots can be used to create multiple new volumes, and new volumes create
 In keeping with the AWS shared responsibility model, as the customer, you are responsible for scheduling and managing regular EBS snapshots as part of your backup strategy. This includes monitoring snapshot costs and deleting unnecessary snapshots to avoid excessive charges. You also need to make sure sensitive data within snapshots is encrypted, verify snapshot integrity, and test restoration procedures regularly.
 The following illustration shows how EBS snapshots are created from an EBS volume over time. To learn more about how EBS snapshots interact with EBS volumes, choose each of the following three markers.
 
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/5c3a11e1-3475-49d5-b734-6c58eb2fdf00" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/a5bdbee7-7d8f-4fef-adf7-d50559f2efc0" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/071cfdf1-9283-4865-9804-25ca44c9bdea" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/502f1657-fa72-456b-a31b-4ce0660740f1" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/5c3a11e1-3475-49d5-b734-6c58eb2fdf00" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/a5bdbee7-7d8f-4fef-adf7-d50559f2efc0" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/071cfdf1-9283-4865-9804-25ca44c9bdea" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/502f1657-fa72-456b-a31b-4ce0660740f1" />
 
 ## Benefits
 Review the main benefits of EBS Snapshots and how it improves your data protection strategy in Amazon EBS.
