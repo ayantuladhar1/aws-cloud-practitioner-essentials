@@ -15,7 +15,7 @@ CloudTrail provides auditing, security monitoring, and operational troubleshooti
 ## Use cases:
 It can be used for compliance and auditing, identifying security incidents, troubleshooting operational issues.
 
-To learn more about CloudTrail features, expand each of the following three categories.
+To learn more about CloudTrail features, expand each of the following three categories.  
 **CloudTrail events**  
 CloudTrail events capture details about actions performed within your AWS account, such as API calls, console actions, or other activities. Event history provides a viewable, searchable, downloadable, and immutable record of the past 90 days of management events in an AWS Region. There are no CloudTrail charges for viewing event history.
 
