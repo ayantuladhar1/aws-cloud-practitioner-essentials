@@ -23,7 +23,7 @@ To review the differences between the plans, refer to the following table.
 In addition to AWS Support plans, AWS also provides access to other teams, resources, and documentation that you can use to support your cloud journey. To learn more about these resources, choose the following five markers.
 
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/522cdfef-1191-4d2c-9029-7aa1f2e5888b" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/3b755704-d555-4bac-a595-bacd7d4bb308" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/3b755704-d555-4bac-a595-bacd7d4bb308" />
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/25ca9dce-c26a-4a4e-811a-8615f42a23f4" />
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/27f97fb1-9ce8-488e-9314-496ea30af266" />
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/52b3acd8-6fbf-4b3c-b903-a44149229e0f" />
