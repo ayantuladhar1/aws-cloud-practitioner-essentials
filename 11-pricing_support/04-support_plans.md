@@ -27,4 +27,4 @@ In addition to AWS Support plans, AWS also provides access to other teams, resou
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/25ca9dce-c26a-4a4e-811a-8615f42a23f4" />
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/27f97fb1-9ce8-488e-9314-496ea30af266" />
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/52b3acd8-6fbf-4b3c-b903-a44149229e0f" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/63200921-f75a-4d08-a12a-580d895fa341" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/63200921-f75a-4d08-a12a-580d895fa341" />
